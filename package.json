@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@waline/vercel": "latest"
+    "@waline/vercel": "latest",
+    "@vercel/node": "2.5.10"
   },
   "packageManager": "pnpm"
 }
